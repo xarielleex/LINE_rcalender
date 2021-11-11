@@ -1,2 +1,2 @@
-# LINE_rcalender
+# LINE_writeGoogleCalender
 Write Google calender on LINE
